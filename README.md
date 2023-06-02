@@ -1,3 +1,3 @@
-# the_social
+# The Social 🐼
 
-A new Flutter project.
+A small social app where you and your friends share their daily thoughts, like and comment.
